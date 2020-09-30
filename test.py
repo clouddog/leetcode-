@@ -1,0 +1,4 @@
+s='andad'
+s.length
+
+
